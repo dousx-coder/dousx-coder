@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm DousX-Coder! 👋
 
-<!--
-**dousx-coder/dousx-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software developer with a strong interest in open-source projects, artificial intelligence, and web development. I love to learn, share knowledge, and contribute to the community.
 
-Here are some ideas to get you started:
+## 🏆 Top Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dousx-coder&layout=compact&theme=radical)
+
+## 🚀 Skills
+
+- **Languages:**  Java,Rust
+- **Frameworks:** Spring
+- **Tools:** Git, Docker, Kubernetes, Jenkins
+- **Databases:** MySQL, PostgreSQL, Redis
+
+## 💬 Let's Connect!
+
+Feel free to reach out to me for any collaboration opportunities or just to say hi! I'm always open to new ideas and projects.
