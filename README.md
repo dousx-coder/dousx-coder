@@ -1,4 +1,4 @@
-# Hi there, I'm DousX-Coder! 👋
+# Hi there, I'm dousx! 👋
 
 I'm a passionate software developer with a strong interest in open-source projects, artificial intelligence, and web development. I love to learn, share knowledge, and contribute to the community.
 
